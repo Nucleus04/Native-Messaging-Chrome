@@ -1,0 +1,8 @@
+﻿  Native App test.cpp
+C:\Users\markv\Documents\Work\Native Messaging\V2\nativeapp\Native App test\Native App test.cpp(22,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\markv\Documents\Work\Native Messaging\V2\nativeapp\Native App test\Native App test.cpp(28,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\markv\Documents\Work\Native Messaging\V2\nativeapp\Native App test\Native App test.cpp(32,33): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\markv\Documents\Work\Native Messaging\V2\nativeapp\Native App test\Native App test.cpp(46,30): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Native App test.vcxproj -> C:\Users\markv\Documents\Work\Native Messaging\V2\nativeapp\Native App test\x64\Debug\Native App test.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

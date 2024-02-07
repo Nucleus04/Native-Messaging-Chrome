@@ -1,0 +1,9 @@
+{
+    "name": "com.example.native_my_app",
+    "description": "Native Messaging Example App",
+    "path": "C:\\Users\\markv\\Documents\\Work\\Native Messaging\\V2\\nativeapp\\Native App test\\x64\\Debug\\Native App test.exe",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://ooogdhblijddojoklnihakobnnkkhhan/"
+    ]
+}
